@@ -1,0 +1,11 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bridge.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/bridge.xnb","TextureProcessor","Texture2DContent",1415,6485,0,1557903
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bridgeLadder.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/bridgeLadder.xnb","TextureProcessor","Texture2DContent",2372,6485,0,0045071
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/DK_mod_mario.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/DK_mod_mario.xnb","TextureProcessor","Texture2DContent",23114,128269,0,0140034
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/empty.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/empty.xnb","TextureProcessor","Texture2DContent",125,6485,0,0059319
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/GameFont.spritefont","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/GameFont.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,1477799
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/ladder.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/ladder.xnb","TextureProcessor","Texture2DContent",2512,6485,0,0045272
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/lose.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/lose.xnb","TextureProcessor","Texture2DContent",27074,2502485,0,0876724
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/mario-pauline.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/mario-pauline.xnb","TextureProcessor","Texture2DContent",9971,123237,0,0104398
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/start.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/start.xnb","TextureProcessor","Texture2DContent",148994,2502485,0,0895083
+"C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/stuff_mod.png","C:/Users/alexa/source/repos/Donkey Kong/Donkey Kong/Content/bin/Windows/stuff_mod.xnb","TextureProcessor","Texture2DContent",7769,150145,0,0119354
