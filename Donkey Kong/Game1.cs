@@ -621,7 +621,7 @@ namespace Donkey_Kong
                 CurrentState = GameState.LevelWin;
                 NextLevelDelay.StartTimer(NextLevelDelayTime);
             }
-            else if (!DoLevelProgression)
+            else if (isLevelWon && !DoLevelProgression)
                 CurrentState = GameState.GameWin;
             else
                 CurrentState = GameState.GameLose;

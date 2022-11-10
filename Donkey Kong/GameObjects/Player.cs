@@ -104,7 +104,6 @@ namespace Donkey_Kong.GameObjects
                 Die();
                 despawnEnemies.Invoke();
             }
-                
 
             PlayerState? newState;
             AnimationManager.Update(deltatime, CurrentState, GotHurt, out newState);
